@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718681759794",
+    "project_id": "operationtreadstone-24753",
+    "storage_bucket": "operationtreadstone-24753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718681759794:android:bf4e1681060959cdad1c2b",
+        "android_client_info": {
+          "package_name": "com.example.mfntreadstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1WzEzUDK3JomhsAFP2uXxNMTTkLYAGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
